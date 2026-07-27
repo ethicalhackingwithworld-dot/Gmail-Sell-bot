@@ -72,7 +72,7 @@ async def main():
         
         # Initialize bot
         bot = Bot(
-            token=settings.8699947886:AAGGeXPV918jpC_bumdjunCvdAr0vfKYZNI,
+            token="8699947886:AAGGEXPV918jpC_bumdjunCvdAr0vfKYZNI",
             default=DefaultBotProperties(parse_mode=ParseMode.HTML)
         )
         
