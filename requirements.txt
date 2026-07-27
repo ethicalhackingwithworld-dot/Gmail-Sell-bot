@@ -1,3 +1,13 @@
-aiogram
-aiofiles
-redis
+aiogram==3.13.1
+redis==5.0.8
+structlog==24.4.0
+aiofiles==24.1.0
+pydantic==2.9.2
+pydantic-settings==2.5.2
+SQLAlchemy==2.0.35
+greenlet==3.1.1
+asyncpg==0.29.0
+python-dotenv==1.0.1
+uvicorn==0.30.6
+fastapi==0.112.2
+
